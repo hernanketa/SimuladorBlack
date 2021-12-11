@@ -140,6 +140,11 @@ select{
     color:gold;
     
 }
+
+img{
+    width:800px;
+    height: 800px;
+}
 .card .card-image .card-title{
     color :gold;
     position:unset
